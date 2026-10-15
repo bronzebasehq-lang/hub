@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hub.bronzebasehq.workers.dev/sitemap.xml
